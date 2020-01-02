@@ -1,0 +1,24 @@
+  
+* {
+  box-sizing: border-box;
+  flex: 0 1 auto;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: $gray3;
+  font-family: $sans;
+  font-size: 1.6rem;
+  line-height: $u2;
+  overflow-y: scroll;
+}
