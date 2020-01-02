@@ -30,6 +30,10 @@ input {
     padding-left: 0.8rem;
     outline: none;
   }
+
+  &.error {
+    border-color: $red;
+  }
 }
 
 button {
