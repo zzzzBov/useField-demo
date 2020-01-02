@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/useField-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/useField-demo/static/js/main.8a23a058.chunk.js",
+    "main.js.map": "/useField-demo/static/js/main.8a23a058.chunk.js.map",
+    "runtime-main.js": "/useField-demo/static/js/runtime-main.b1c4a9a6.js",
+    "runtime-main.js.map": "/useField-demo/static/js/runtime-main.b1c4a9a6.js.map",
+    "static/js/2.c71a4558.chunk.js": "/useField-demo/static/js/2.c71a4558.chunk.js",
+    "static/js/2.c71a4558.chunk.js.map": "/useField-demo/static/js/2.c71a4558.chunk.js.map",
+    "index.html": "/useField-demo/index.html",
+    "precache-manifest.70c157460ae4b75432cb353cb68313dc.js": "/useField-demo/precache-manifest.70c157460ae4b75432cb353cb68313dc.js",
+    "service-worker.js": "/useField-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/useField-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c71a4558.chunk.js.LICENSE": "/useField-demo/static/js/2.c71a4558.chunk.js.LICENSE",
+    "static/media/logo.svg": "/useField-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1c4a9a6.js",
+    "static/js/2.c71a4558.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8a23a058.chunk.js"
+  ]
+}
